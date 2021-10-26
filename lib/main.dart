@@ -25,6 +25,9 @@ class ListaTransferencias extends StatelessWidget {
       children: const [
 
         ItemTransferencia(valor: '100',numeroConta:'548963'),
+        ItemTransferencia(valor: '200',numeroConta:'345345'),
+        ItemTransferencia(valor: '300',numeroConta:'125332'),
+
       ],
     );
   }
